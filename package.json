@@ -17,6 +17,7 @@
     }
   },
   "dependencies": {
+    "@stitches/react": "0.1.0-canary.12",
     "framer-motion": "^3.1.4",
     "next": "^10.0.7",
     "polished": "^4.0.5",
